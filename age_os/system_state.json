@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "description": "系统状态 · 由副驾驶自动维护",
+    "copyright": "国作登字-2026-A-00037559"
+  },
+  "system_version": "AGE OS v2.0",
+  "status": "uninitialized",
+  "persona_name": "",
+  "persona_id": "",
+  "boot_count": 0,
+  "total_updates": 0,
+  "last_boot": "",
+  "connection_to_zhuyuan": "pending",
+  "zhuyuan_last_sync": "",
+  "main_repo": "qinfendebingshuo/guanghulab"
+}
